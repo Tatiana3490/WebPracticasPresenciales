@@ -1,0 +1,10 @@
+.productos{
+    display: flex;
+}
+.negras img{
+    width: 120px;
+    height: 120px;
+}
+
+
+
